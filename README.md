@@ -5,11 +5,11 @@ For example if a company is looking to adopt a new way of building software appl
 it can use GetReady application to do this.  GetReady application will have the ability to assess individuals as well as organizations and internal organizations.
 Another feature that is part of the application is that is build individual technical profiles for all of your software engineers.
 
-Technology Stack Used in this application
+Technology Stack Used in this application</br>
 Front End </br>
-  React/Redux
-Middle Tier 
-  Apache Tomcat
-  Java Rest APIs
-Back-End 
-  MYSQL
+  React/Redux</br>
+Middle Tier </br>
+  Apache Tomcat</br>
+  Java Rest APIs</br>
+Back-End </br>
+  MYSQL</br>
