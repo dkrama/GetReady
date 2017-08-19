@@ -6,9 +6,10 @@ it can use GetReady application to do this.  GetReady application will have the 
 Another feature that is part of the application is that is build individual technical profiles for all of your software engineers.
 
 Technology Stack Used in this application
-Front End
+Front End 
   React/Redux
 Middle Tier 
+  Apache Tomcat
   Java Rest APIs
 Back-End 
   MYSQL
